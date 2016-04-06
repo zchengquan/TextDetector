@@ -1,0 +1,24 @@
+All of pylearn2's dependencies (theano / scipy / numpy / etc.) make reproducibility
+very difficult. As such, we are not currently going to make any effort to ensure that
+all results are widely reproducible on a variety of platforms. Instead, we will
+record the platform on which they were verified to be correct.
+
+MNIST_PI:
+Last verified for:
+pylearn2 at commit b94519e83aa50c67dd1db7cee1d00aff54188e89
+theano at commit 42c16ccfe87103db9021e58c37bc3199813ca517
+GPU: GTX 580
+CPU: Intel(R) Xeon(R) CPU           E5620  @ 2.40GHz
+numpy and python provided by EPD 7.1.2
+Operating system: Fedora Core 14
+This was on the machine barney0 at the lisa lab.
+
+cifar-10 no data augmentation:
+pylearn2 bc25998da3693ca6d9776c0d8e6644bf00bea1a3
+theano 11781d77c479f1e2438b722ac896d2b9a54e4702
+machine: eos4 at the lisa lab
+numpy and python provided by EPD 7.1.2
+Operating system: Fedora Core 14
+
+with data augmentation, it was on eos6, and probably
+a slightly newer version of theano and pylearn2.

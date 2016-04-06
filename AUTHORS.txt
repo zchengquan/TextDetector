@@ -1,0 +1,10 @@
+Text Conv Natural Scene Text Detector
+Copyright (c) 2016-2020 Siyu Zhu, Richard Zanibbi
+
+The system was developed at the Rochester Institute of Technology in
+Rochester, New York, USA, primarily in the Document and Pattern Recognition
+Lab (DPRL) located within the Computer Science Department.
+
+Please see the LICENSE.txt file for terms of use (the system is being
+distributed under the GNU General Public License version 3).
+
