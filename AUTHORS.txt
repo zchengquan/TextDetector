@@ -1,5 +1,5 @@
 Text Conv Natural Scene Text Detector
-Copyright (c) 2016-2020 Siyu Zhu, Richard Zanibbi
+Copyright (c) 2012-2016 Siyu Zhu, Richard Zanibbi
 
 The system was developed at the Rochester Institute of Technology in
 Rochester, New York, USA, primarily in the Document and Pattern Recognition
