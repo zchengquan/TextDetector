@@ -131,6 +131,7 @@ Packages required for python packages: scipy, numpy, scikit-learn, scikit-image,
 * * *
 
 *Visit the DPRL page for more information about the lab and projects.*
+
 *This material is based upon work supported by the National Science Foundation (USA) under Grant Nos. IIS-1016815 and HCC-1218801.
 Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) 
 and do not necessarily reflect the views of the National Science Foundation.*
