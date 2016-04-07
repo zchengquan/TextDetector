@@ -2,7 +2,7 @@ DPRL Natural Scene Text Detector
 ---------------
 
 DPRL Natural Scene Text Detector
-Copyright (c) 2016-2020 Siyu Zhu, Richard Zanibbi
+Copyright (c) 2012-2016 Siyu Zhu, Richard Zanibbi
 
 DPRL Natural Scene Text Detector is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
@@ -131,3 +131,6 @@ Packages required for python packages: scipy, numpy, scikit-learn, scikit-image,
 * * *
 
 *Visit the DPRL page for more information about the lab and projects.*
+*This material is based upon work supported by the National Science Foundation (USA) under Grant Nos. IIS-1016815 and HCC-1218801.
+Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) 
+and do not necessarily reflect the views of the National Science Foundation.*
