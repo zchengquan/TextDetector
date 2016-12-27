@@ -106,7 +106,7 @@ The system is composed by multistages of cascaded filtering. The first stage cla
 ##Dependencies
 * * *
 
-Packages required for python packages: scipy, numpy, scikit-learn, scikit-image, theano, matploblib, cython, joblib.
+Packages required for python packages: scipy, numpy, scikit-learn, scikit-image, theano, matplotlib, cython, joblib.
 
 * The package _scipy_ and _numpy_ are used for basic matrix operation and computation, which can be found at: 
 	[https://www.scipy.org] and
